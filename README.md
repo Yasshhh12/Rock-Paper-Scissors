@@ -1,1 +1,1 @@
-# javascript-game
+# Rock-Paper-Scissors Game
